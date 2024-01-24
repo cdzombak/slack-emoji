@@ -1,2 +1,3 @@
 # slack-emoji
-emojis for various things in Slack
+
+A variety of emoji for use in Slack et al.
